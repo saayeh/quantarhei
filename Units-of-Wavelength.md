@@ -1,0 +1,3 @@
+(See also: [[Units conversion|Units conversion]] and [[Manager class|Manager class]])
+
+In Quantarhei, wevelength (unlike distance) is just another way to specify energy. Correspondingly, no special context manager is defined for wavelength. When energy/frequency is specified with length units, such as nano meters (nm), the values of energy are expressed as a wavelength of the corresponding light. See sections [[Units of Energy|Units of Energy]] and [[Units of Frequency|Units of Frequency]] for more information.

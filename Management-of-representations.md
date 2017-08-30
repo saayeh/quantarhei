@@ -1,0 +1,1 @@
+Representations of the Quantarhei objects representing quantum mechanical quantities can be controlled by context managers similarily to the way that units of physical quantities are handled in Quantharhei.
